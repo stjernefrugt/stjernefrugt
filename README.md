@@ -1,16 +1,21 @@
-## Hi there 👋
+# Tim van Driel
 
-<!--
-**stjernefrugt/stjernefrugt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Scientific computing, experimental data analysis, and machine learning.
 
-Here are some ideas to get you started:
+My background is in time-resolved X-ray scattering at SLAC National Accelerator
+Laboratory. I'm interested in extracting useful structure from complex signals
+and building research tools that other people can run and understand.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects being prepared for release
+
+- **AugmentedScholar:** bibliographic ingestion, citation networks, graph analysis,
+  and a Streamlit interface for exploring research literature.
+- **Sparse autoencoders and SVD:** exploratory work on language-model activations,
+  reconstruction, sparsity, and feature analysis, motivated by signal decomposition.
+
+Both repositories are temporarily private during reproducibility and evaluation
+review. These are exploratory projects; their current status is not a claim of
+validated research results or production readiness.
+
+[Portfolio](https://stjernefrugt.github.io) ·
+[Contact](mailto:stjernefrugt+github@gmail.com)
